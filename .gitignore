@@ -1,0 +1,7 @@
+imgs/
+cache/
+data/
+logs/
+.DS_Store
+.ipynb_checkpoints/
+*.zip
